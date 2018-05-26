@@ -1,2 +1,2 @@
-# Practical-esNext
-Learning ES Next by converting some of my existing code.
+# Practical Learning
+Learning new skills by converting some of my existing code.
